@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+offlline_link_prediction/data/dataset/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode config
+.vscode/
